@@ -1,7 +1,7 @@
 
 ## TCGA Glioblastome dataset
 
-Data set for cola analysis. The original source is from [https://gdc.cancer.gov/about-data/publications/gbm_exp](https://tcga-data.nci.nih.gov/docs/publications/gbm_exp/).
+Data set for cola analysis. The original source is from [https://gdc.cancer.gov/about-data/publications/gbm_exp](https://gdc.cancer.gov/about-data/publications/gbm_exp).
 
 - [TCGA_unified_CORE_ClaNC840.txt](https://jokergoo.github.io/cola_examples/TCGA_GBM/TCGA_unified_CORE_ClaNC840.txt)
 - [unifiedScaled.txt](https://jokergoo.github.io/cola_examples/TCGA_GBM/unifiedScaled.txt)
