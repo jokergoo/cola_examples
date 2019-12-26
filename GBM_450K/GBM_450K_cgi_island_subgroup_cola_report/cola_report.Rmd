@@ -1,4 +1,4 @@
-cola Report for Consensus Partitioning
+cola Report for GBM_450K cgi_island
 ==================
 
 **Date**: `r format(as.POSIXlt(Sys.time()), usetz = TRUE)`, **cola version**: `r installed.packages()["cola", "Version"]`

@@ -1,5 +1,5 @@
 
-Examples of [cola](https://github.com/jokergoo/cola) analysis ([package version 1.3.2](https://github.com/jokergoo/cola/releases/tag/1.3.2)):
+Examples of [*cola*](https://github.com/jokergoo/cola) analysis ([package version 1.3.2](https://github.com/jokergoo/cola/releases/tag/1.3.2)):
 
 ### RNASeq datasets
 
